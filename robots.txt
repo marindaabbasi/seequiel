@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jiereweay.0xfire.com/sitemap.xml
